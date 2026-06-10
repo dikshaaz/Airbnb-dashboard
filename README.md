@@ -1,3 +1,6 @@
+Access the dashboard from here
+https://drive.google.com/drive/folders/10Hnx-zm7qlvL8La0FpwiodrC3QHyXKJn?usp=drive_link
+
 # Airbnb-dashboard
 This Project is an interactive Airbnb Analytics Dashboard developed in PowerBI to analyze listing performance, customer ratings and review trends. The dashboard transforms raw Airbnb data into actionable insights through dynamic visualisations, custom Dax calculations and user friendly navigation.
 The report is designed to help users explore key metrics , identify patterns in customer feedback and gain a comprehensive understanding of airbnb listing performnace.
